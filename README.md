@@ -21,6 +21,16 @@ Stage 3: Verify   →  Live API probing (AWS, GitHub, Stripe, Twilio, SendGrid, 
 
 ---
 
+## Screenshots
+
+### Scan Progress & Clean Run
+![Scan Progress](data/screenshots/2026-06-30_12-59.png)
+
+### Findings Table & Scan Summary
+![Findings Table](data/screenshots/2026-06-30_13-04.png)
+
+---
+
 ## Installation
 
 ```bash
